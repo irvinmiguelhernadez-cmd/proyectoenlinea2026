@@ -6,3 +6,5 @@ que se estará evaluando constantemente.
 
 1.Creacion del repositorio
 2.Creacion de ReadMe
+3.subir el Sitio Compra Max
+4.personalizar encabezado
