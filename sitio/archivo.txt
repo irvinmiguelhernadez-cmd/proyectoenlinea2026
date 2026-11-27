@@ -1,0 +1,5 @@
+1, zapatos,300,calzado
+2, lentes,380,caballero
+3, playera azul,250,caballero
+4, vestido,480,dama
+5, calcetines,80,caballero
